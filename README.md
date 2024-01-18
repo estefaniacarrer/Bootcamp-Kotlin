@@ -1,4 +1,4 @@
-Exercicios realizados durante o bootcamp de kotlin
+
 # 🚀 Bootcamp Kotlin - Desenvolvimento Backend
 
 Bem-vindo ao meu repositório contendo os exercícios realizados durante o bootcamp de Kotlin para desenvolvimento backend! 🌐
